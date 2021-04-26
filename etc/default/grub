@@ -1,7 +1,7 @@
 # GRUB boot loader configuration
 
 GRUB_DEFAULT=saved
-GRUB_TIMEOUT=5
+GRUB_TIMEOUT=0
 GRUB_DISTRIBUTOR="Arch"
 GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet random.trust_cpu=on"
 GRUB_CMDLINE_LINUX=""
