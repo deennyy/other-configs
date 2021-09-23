@@ -1,0 +1,4 @@
+[Desktop Entry]
+Exec=rofi -show run
+Type=Application
+Icon=/usr/share/pixmaps/archlinux-logo.svg
